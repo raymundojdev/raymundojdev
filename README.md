@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center"> Nombre de la herramienta</h1>
+<p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.whitebearsolutions.com%2Fen%2Fwere-looking-for-a-product-developer%2F&psig=AOvVaw0P9TRu2IqObmbwMTmOxXAl&ust=1647158669694000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJie4bWOwPYCFQAAAAAdAAAAABAJ"/></p> 
 
-<!--
-**raymundojdev/raymundojdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Raymundo ✋🧑‍💻!!
 
-Here are some ideas to get you started:
+_I am a growing web developer in Web Systems, .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Experience in languages:
+```
+* PHP
+* JAVASCRIPT
+* AJAX
+```
+# Layout Languages, Styles, Framework 🎨:
+
+```
+*HTML 
+*CSS
+*BOOTSTRAP
+NodeJS
+```
+
+# Software Design Patterns ⚙️:
+```
+*MVC
+```
+
+# Databases 🛢️:
+
+```
+*MYSQL
+*MONGO DB
+*MYSQLSERVER
+```
