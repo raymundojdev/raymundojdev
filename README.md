@@ -1,6 +1,6 @@
 <h1 align="center"> Nombre de la herramienta</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.whitebearsolutions.com%2Fen%2Fwere-looking-for-a-product-developer%2F&psig=AOvVaw0P9TRu2IqObmbwMTmOxXAl&ust=1647158669694000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJie4bWOwPYCFQAAAAAdAAAAABAJ"/></p> 
+<p align="center"><img src="https://www.whitebearsolutions.com/wp-content/uploads/2019/04/artificial-intelligence-blur-close-up-546819-1-4200x2100.jpg"/></p> 
 
 # Hello, I'm Raymundo ✋🧑‍💻!!
 
