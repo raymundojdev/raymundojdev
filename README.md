@@ -14,7 +14,6 @@ _I am a growing web developer in Web Systems, .
 *HTML 
 *CSS
 *BOOTSTRAP
-NodeJS
 ```
 
 # Software Design Patterns ⚙️:
