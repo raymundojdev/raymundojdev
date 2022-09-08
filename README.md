@@ -6,7 +6,6 @@ _I am a growing web developer in Web Systems, .
 ```
 * PHP
 * JAVASCRIPT
-* AJAX
 * PYTHON
 ```
 # Layout Languages, Styles, Framework 🎨:
@@ -18,6 +17,7 @@ _I am a growing web developer in Web Systems, .
 *TAILWIND
 *SKELETON CSS
 *BOOTSTRAP
+*AJAX
 *REACT
 *VUE
 *EXPRESS
